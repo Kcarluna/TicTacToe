@@ -6,6 +6,7 @@
 Dependencies: [SDL2], [SDL2_ttf]
 ```console
 $ cd TicTacToe/src/
+$ chmod +x build.sh
 $ ./build.sh
 $ ./TicTacToe
 ```
