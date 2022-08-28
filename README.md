@@ -1,5 +1,4 @@
 # TicTacToe
-Made using SDL2!
 ![TicTacToe](/img/TicTacToe.png?raw=true)
 
 ## Quick Start
