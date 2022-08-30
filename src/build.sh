@@ -6,7 +6,7 @@ CFLAGS=`pkg-config SDL2 --cflags`
 LIBS=`pkg-config SDL2 SDL2_ttf --libs`
 
 MODS="Scene.cpp Game.cpp Board.cpp Tile.cpp"
-COMP="-pedantic"
+COMP="-pedantic -o2"
 
 set -xe
 
